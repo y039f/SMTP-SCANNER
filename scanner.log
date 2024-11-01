@@ -1,0 +1,9 @@
+2024-11-01 02:54:53,808 - INFO - xSMTP started.
+2024-11-01 02:55:00,129 - INFO - Fetching IP ranges for domain: d
+2024-11-01 02:55:00,304 - ERROR - Failed to get ASN for d. Status Code: 400
+2024-11-01 02:55:00,305 - ERROR - No IP ranges fetched. Exiting.
+2024-11-01 02:56:31,496 - INFO - xSMTP started.
+2024-11-01 02:56:32,809 - INFO - Fetching IP ranges for domain: a
+2024-11-01 02:56:33,008 - ERROR - Failed to get ASN for a. Status Code: 400
+2024-11-01 02:56:33,010 - ERROR - No IP ranges fetched. Exiting.
+2024-11-01 03:06:25,655 - INFO - xSMTP started.
